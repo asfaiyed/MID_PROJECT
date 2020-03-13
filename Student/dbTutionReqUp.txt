@@ -1,0 +1,5 @@
+{"nname":"Antara","category":"SSC","subject":"ICT","time":"8pm-10pm"}
+{"nname":"arnob","category":"ssc","subject":"bangla","time":"7 am or 8 pm"}
+{"nname":"Ali","category":"bsc","subject":"Networking","time":"7 am or 8 pm"}
+{"nname":"arnob","category":"bsc","subject":"bangla","time":"5 pm or 9pm"}
+{"nname":"arnob","category":"ssc","subject":"bangla","time":"8 pm or 9 pm"}

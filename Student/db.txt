@@ -1,0 +1,10 @@
+{"fname":"john doe","nname":"john","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"M","education":["ssc","hsc"]}
+{"fname":"jane doe","nname":"jane","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"F","education":["ssc","hsc","bsc"]}
+{"fname":"Faiyed Arnob","nname":"arnob","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"M","education":["ssc","hsc","bsc"]}
+{"fname":"Nargis Morsheda","nname":"Nargis","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"F","education":["ssc"]}
+{"fname":"iftekhar rifat","nname":"rifat","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"M","education":["ssc","hsc","bsc"]}
+{"fname":"Abdul Baset","nname":"Baset","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"M","education":["ssc","hsc","bsc"]}
+{"fname":"Tanzima sharmin Antara","nname":"Antara","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"F","education":["ssc"]}
+{"fname":"Akash Haq","nname":"Akash","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"M","education":["ssc","hsc"]}
+{"fname":"Mohammad Ali","nname":"Ali","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"M","education":["ssc","hsc"]}
+{"fname":"Mazharul Islam","nname":"Ananta","password":"827ccb0eea8a706c4c34a16891f84e7b","gender":"M","education":["ssc","hsc"]}

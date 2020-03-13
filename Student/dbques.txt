@@ -1,0 +1,1 @@
+{"id":"11","category":"hsc","subject":"ICT","ques":"What is radix point "}

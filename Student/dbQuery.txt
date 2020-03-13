@@ -1,0 +1,11 @@
+{"name":"arnob","query":"is there any ict course availabe "}
+{"name":"john","query":"When the Question will upload for hsc ICT "}
+{"name":"rifat","query":"Any notes availabe for English 2nd paper HSC "}
+{"name":"arnob","query":"asdsa"}
+{"name":"arnob","query":"any course for Admission test"}
+{"name":"arnob","query":"is there any tuition availabe for ssc english 2nd paper"}
+{"name":"arnob","query":"sadsa"}
+{"name":"Ali","query":"Can anyone upload ssc ict last chapter notes?"}
+{"name":"arnob","query":"trZRerc"}
+{"name":"arnob","query":"vdfvd"}
+{"name":"Ananta","query":"gctc"}

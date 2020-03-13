@@ -1,0 +1,6 @@
+{"nname":"arnob","ques":"What is radix point ","ans":"decimal point in the number system"}
+{"nname":"arnob","ques":"What is radix point ","ans":"asdasd"}
+{"nname":"Ali","ques":"What is radix point ","ans":"this is just a fractional point"}
+{"nname":"arnob","ques":"What is radix point ","ans":"hvhgvg"}
+{"nname":"arnob","ques":"What is radix point ","ans":"hgachjabsjcj"}
+{"nname":"Ananta","ques":"What is radix point ","ans":"bsvhagSH"}
